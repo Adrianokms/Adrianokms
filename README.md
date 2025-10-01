@@ -7,3 +7,6 @@
 - 📫 How to reach me: adrianokarone12@gmail.com 
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postman,mysql,postgres,docker&perline=7)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/Adrianokms/Adrianokms/output/snake.svg" alt="Snake animation" />
+
